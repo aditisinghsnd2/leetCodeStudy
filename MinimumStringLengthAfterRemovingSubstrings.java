@@ -42,6 +42,7 @@ public class MinimumStringLengthAfterRemovingSubstrings {
         return stack.size();
     }
 
+    //main method
     public static void main(String[] args) {
         String str = "ABFCACDB";
         MinimumStringLengthAfterRemovingSubstrings obj = new MinimumStringLengthAfterRemovingSubstrings();
